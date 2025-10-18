@@ -1,0 +1,14 @@
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/bin/Debug/net8.0/AE2
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/bin/Debug/net8.0/AE2.deps.json
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/bin/Debug/net8.0/AE2.runtimeconfig.json
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/bin/Debug/net8.0/AE2.dll
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/bin/Debug/net8.0/AE2.pdb
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.AssemblyInfoInputs.cache
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.AssemblyInfo.cs
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.csproj.CoreCompileInputs.cache
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.dll
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/refint/AE2.dll
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.pdb
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/AE2.genruntimeconfig.cache
+/Users/dave/Documents/NU_Fall_2024/OOP/AE2/AE2/obj/Debug/net8.0/ref/AE2.dll
